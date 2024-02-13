@@ -1,0 +1,1 @@
+Predict canada's per capita income in year 2027. Using the dataset provided in this folder build a regression model and predict the per capita income for canadian citizens in year 2027
