@@ -1,0 +1,5 @@
+from sklearn.datasets import load_digits
+digits = load_digits()
+dir(digits)
+
+Try out different values of kernel and C. And note down their impact on the model accuracy
