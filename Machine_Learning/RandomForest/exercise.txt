@@ -1,0 +1,5 @@
+Iris dataset
+from sklearn.datasets import load_iris
+
+train your random forest
+practice with n_estimators, and observe its effect on the model performance
