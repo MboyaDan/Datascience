@@ -1,0 +1,4 @@
+1. Convert text column to no. Label encoding. one-hot encoding
+2. Apply scaling
+3. Build classification model
+4. Use PCA
