@@ -1,0 +1,6 @@
+Dataset - Heart.csv
+
+1. Use any classification model(s) to predict the classes, get its score
+2. Use Bagging technique, and get its score.
+3. Compare the scores of the two
+4. Try out with different number of n_estimators and compare the scores
